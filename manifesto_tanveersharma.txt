@@ -1,0 +1,9 @@
+OPEN SOURCE MANIFESTO - 29 March 2026
+------------------------------------------------
+I believe that software should be shared, not locked away. Every day,
+I rely on tools like Linux to learn and get my work done.
+To me, the open-source philosophy is fundamentally about Creativity.
+If I could contribute back to the community, I would build A new web framework 
+so that others could learn, adapt, and improve it without barriers.
+------------------------------------------------
+Signed, Tanveer Sharma

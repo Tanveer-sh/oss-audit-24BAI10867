@@ -1,7 +1,11 @@
 Open Source Audit Capstone Project
+
 Student Name: Tanveer Sharma
+
 Roll Number: 24BAI10867 
+
 Chosen Software: Apache HTTP Server (apache2) 
+
 Course: Open Source Software (OSS NGMC)
 
 Project Overview

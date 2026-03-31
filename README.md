@@ -1,5 +1,8 @@
 Open Source Audit Capstone Project
-Student Name: Tanveer Sharma Roll Number: 24BAI10867 Chosen Software: Apache HTTP Server (apache2) Course: Open Source Software (OSS NGMC)
+Student Name: Tanveer Sharma
+Roll Number: 24BAI10867 
+Chosen Software: Apache HTTP Server (apache2) 
+Course: Open Source Software (OSS NGMC)
 
 Project Overview
 This repository contains the five shell scripts developed for the Open Source Audit capstone project. The project investigates the initial development stage of Apache HTTP Server including its licensing agreements and its current usage within Linux systems.
